@@ -64,7 +64,6 @@ repositories {
 
 ext {
 	robobindingVersion = 'latest.integration'
-    //robobindingVersion = '0.8.7'
 }
 
 dependencies {
